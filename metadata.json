@@ -1,0 +1,5 @@
+{
+  "name": "Leadium.app",
+  "description": "AI-powered B2B lead generation dashboard simulating Firebase Genkit workflows for company discovery and data enrichment.",
+  "requestFramePermissions": []
+}
